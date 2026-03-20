@@ -1,75 +1,26 @@
-/* Загальні стилі */
 body {
-    font-family: 'Courier New', Courier, monospace; /* Як у твоїй схемі */
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-    text-align: center;
+    font-family: Arial, sans-serif;
 }
 
-header {
-    background-color: #A20025; /* Темно-червоний зі схеми  */
-    color: white;
-    padding: 20px 0;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-}
-
-/* Меню (твій код з покращенням) */
+/* меню */
 nav {
-    margin-top: 15px;
+    margin-top: 20px;
 }
 
+/*кнопки меню*/
 nav a {
     text-decoration: none;
     background-color: #4CAF50;
     color: white;
-    padding: 12px 18px;
-    margin: 0 5px;
-    border-radius: 12px;
-    display: inline-block;
-    transition: 0.3s; /* Плавний ефект */
-}
 
+    padding: 12px 18px;
+    margin-right: 10px;
+
+    border-radius: 12px;
+
+    display: inline-block;
+}
+/* ефект наведення*/
 nav a:hover {
     background-color: #2e7d32;
-    transform: translateY(-2px);
-}
-
-/* Секції */
-.main-section {
-    padding: 40px 20px;
-    border-bottom: 2px solid #ddd;
-}
-
-h2 {
-    color: #A20025;
-}
-
-/* Картки зі схеми */
-.grid {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;
-    margin-top: 20px;
-}
-
-.card {
-    padding: 20px;
-    width: 250px;
-    border: 3px solid #6C0000;
-    border-radius: 8px;
-    font-weight: bold;
-    color: #333;
-}
-
-.card-yellow {
-    background-color: #FFFBD8; /* Світло-жовтий зі схеми [cite: 10, 12] */
-}
-
-footer {
-    padding: 20px;
-    font-size: 0.8em;
-    color: #666;
 }
