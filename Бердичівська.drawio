@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
+  <diagram name="Сторінка-1" id="2hvO6231EkIy4fVjW69O">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UdJRmwSZdmWdsG8O29gD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A20025,#FFDAE6);strokeColor=light-dark(#6C0000,#744154);fontColor=#ffffff;strokeWidth=3;" value="&lt;font style=&quot;font-size: 25px;&quot; face=&quot;Courier New&quot;&gt;Доставка їжі&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="320" x="273" y="94" as="geometry" />
+        </mxCell>
+        <mxCell id="UdJRmwSZdmWdsG8O29gD-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A20025,#DAFFFD);strokeColor=light-dark(#6C0000,#437473);fontColor=#ffffff;strokeWidth=3;" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;Courier New&quot;&gt;Меню&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="320" x="92" y="204" as="geometry" />
+        </mxCell>
+        <mxCell id="UdJRmwSZdmWdsG8O29gD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A20025,#DAFFFD);strokeColor=light-dark(#6C0000,#437473);fontColor=#ffffff;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;Courier New&quot;&gt;Зони доставки&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="320" x="455" y="204" as="geometry" />
+        </mxCell>
+        <mxCell id="UdJRmwSZdmWdsG8O29gD-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A20025,#DAFFFD);strokeColor=light-dark(#6C0000,#437473);fontColor=#ffffff;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;Courier New&quot;&gt;Відстеження замовлення&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="320" x="275" y="404" as="geometry" />
+        </mxCell>
+        <mxCell id="UdJRmwSZdmWdsG8O29gD-6" edge="1" parent="1" source="UdJRmwSZdmWdsG8O29gD-5" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#FF0000);" target="UdJRmwSZdmWdsG8O29gD-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="433" y="234" />
+            </Array>
+            <mxPoint x="373" y="354" as="sourcePoint" />
+            <mxPoint x="423" y="304" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UdJRmwSZdmWdsG8O29gD-7" edge="1" parent="1" source="UdJRmwSZdmWdsG8O29gD-2" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF0000);" target="UdJRmwSZdmWdsG8O29gD-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="263" y="204" as="sourcePoint" />
+            <mxPoint x="313" y="154" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UdJRmwSZdmWdsG8O29gD-8" edge="1" parent="1" source="UdJRmwSZdmWdsG8O29gD-4" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF0000);" target="UdJRmwSZdmWdsG8O29gD-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="613" y="184" as="sourcePoint" />
+            <mxPoint x="663" y="134" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9bEIvrU4nac86wu7UueG-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A20025,#FFFBD8);strokeColor=light-dark(#6C0000,#747245);fontColor=#ffffff;strokeWidth=3;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Courier New&quot;&gt;Міста&lt;/font&gt;" vertex="1">
+          <mxGeometry height="49" width="232" x="577" y="309" as="geometry" />
+        </mxCell>
+        <mxCell id="9bEIvrU4nac86wu7UueG-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A20025,#FFFBD8);strokeColor=light-dark(#6C0000,#747245);fontColor=#ffffff;strokeWidth=3;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Courier New&quot;&gt;Магазини&lt;/font&gt;" vertex="1">
+          <mxGeometry height="49" width="232" x="18" y="309" as="geometry" />
+        </mxCell>
+        <mxCell id="9bEIvrU4nac86wu7UueG-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A20025,#FFFBD8);strokeColor=light-dark(#6C0000,#747245);fontColor=#ffffff;strokeWidth=3;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Courier New&quot;&gt;Час очікування&lt;/font&gt;" vertex="1">
+          <mxGeometry height="49" width="232" x="177" y="511" as="geometry" />
+        </mxCell>
+        <mxCell id="9bEIvrU4nac86wu7UueG-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A20025,#FFFBD8);strokeColor=light-dark(#6C0000,#747245);fontColor=#ffffff;strokeWidth=3;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Courier New&quot;&gt;Геолокація доставщика&lt;/font&gt;" vertex="1">
+          <mxGeometry height="49" width="232" x="467" y="511" as="geometry" />
+        </mxCell>
+        <mxCell id="9bEIvrU4nac86wu7UueG-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A20025,#FFFBD8);strokeColor=light-dark(#6C0000,#747245);fontColor=#ffffff;strokeWidth=3;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Courier New&quot;&gt;Ресторани&lt;/font&gt;" vertex="1">
+          <mxGeometry height="49" width="232" x="268" y="309" as="geometry" />
+        </mxCell>
+        <mxCell id="9bEIvrU4nac86wu7UueG-6" edge="1" parent="1" source="9bEIvrU4nac86wu7UueG-2" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF0000);" target="UdJRmwSZdmWdsG8O29gD-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="363" y="218" as="sourcePoint" />
+            <mxPoint x="544" y="178" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9bEIvrU4nac86wu7UueG-7" edge="1" parent="1" source="9bEIvrU4nac86wu7UueG-5" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF0000);" target="UdJRmwSZdmWdsG8O29gD-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="248" y="327" as="sourcePoint" />
+            <mxPoint x="429" y="287" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9bEIvrU4nac86wu7UueG-8" edge="1" parent="1" source="9bEIvrU4nac86wu7UueG-1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF0000);" target="UdJRmwSZdmWdsG8O29gD-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="465" y="351" as="sourcePoint" />
+            <mxPoint x="646" y="311" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9bEIvrU4nac86wu7UueG-9" edge="1" parent="1" source="9bEIvrU4nac86wu7UueG-3" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF0000);" target="UdJRmwSZdmWdsG8O29gD-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="434" y="541" as="sourcePoint" />
+            <mxPoint x="615" y="501" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9bEIvrU4nac86wu7UueG-10" edge="1" parent="1" source="9bEIvrU4nac86wu7UueG-4" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF0000);" target="UdJRmwSZdmWdsG8O29gD-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="512" y="575" as="sourcePoint" />
+            <mxPoint x="693" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
